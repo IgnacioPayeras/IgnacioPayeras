@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Payeras</h1>
+<p>Full stack web developer passionate about creating innovative digital experiences. Constantly searching for exciting technical challenges and elegant solutions. Always in constant learning.</p>
 - 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **TypeScript**
